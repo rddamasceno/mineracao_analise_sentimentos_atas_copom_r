@@ -1,0 +1,1 @@
+# mineracao_analise_sentimentos_atas_copom_r
